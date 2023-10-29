@@ -4,7 +4,8 @@ import math
 import sys
 
 """ENTER YOUR UF-ID BELOW"""
-rng_seed = 12345678
+rng_seed = 38747405
+
 
 random.seed(rng_seed)
 
